@@ -1,0 +1,7 @@
+{
+  "venvPath": "/workspaces/multi-domain-simulation",
+  "venv": ".venv",
+  "include": [
+    "."
+  ]
+}
